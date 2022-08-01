@@ -1,0 +1,33 @@
+.navbar {
+  position: sticky;
+  top: 0;
+}
+
+.navbar-brand {
+  font-size: 1.8rem;
+  color: #fff;
+  text-shadow: 0px 0px 5px #fafafa50, 0px 0px 10px #fafafa50;
+}
+
+.navbar-brand:hover {
+  color: #ccc;
+  text-shadow: 0px 0px 5px #fafafa50, 0px 0px 10px #fafafa50;
+}
+
+.navbar-nav .nav-link {
+  color: #fff;
+  font-size: 0.8rem;
+}
+
+.navbar-nav .nav-link:hover {
+  color: #ccc;
+  font-size: 0.8rem;
+}
+
+footer a {
+  color: #fff;
+}
+
+footer a:hover {
+  color: #ccc;
+}
